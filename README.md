@@ -1,2 +1,2 @@
-# skdusi.github.io
-badminton share calculator repo
+# Badminton Share Calculator
+Make it hassle free
