@@ -1,0 +1,5 @@
+{
+  "name": "Badminton Share Calculator",
+  "description": "A professional calculator to split badminton court and shuttle costs among players based on their number of sessions, featuring a sleek Excel-inspired UI.",
+  "requestFramePermissions": []
+}
